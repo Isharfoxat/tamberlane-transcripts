@@ -1,3 +1,5 @@
+***[OUTDATED]***
+
 MILO: Você queria que eu olhasse pra alguma coisa?
 
 OAKEWOOD: Essa é Tamberlane. Belfry Padeira achou ela na foresta e adotou ela.
@@ -14,4 +16,4 @@ MILO: Ela é perfeita!
 OAKEWOOD: Agora calma um pouco!
 OAKEWOOD: O quê você quer dizer, <i>"perfeita"</i>?
 
-MILO: Para meu <i>projeto de pesquisa!<i>
+MILO: Para meu <i>projeto de pesquisa!</i>
