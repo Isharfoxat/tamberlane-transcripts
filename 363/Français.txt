@@ -1,7 +1,7 @@
 PARSLEY&nbsp;: Très bien, ça suffit&nbsp;! Tu as assez écouté mes radotages pour la journée&nbsp;!
 MARIE&nbsp;: Tu sais que je suis heureuse d'écouter tes problèmes à tout moment&nbsp;!
 
-PARSLEY&nbsp;: Ouais, mais quelqu'un doit écouter les tiens. Comment vas-tu?
+PARSLEY&nbsp;:&nbspOuais, mais quelqu'un doit écouter les tiens. Comment vas-tu?
 [SFX&nbsp;: doki doki]
 
 MARIE&nbsp;: Oh... tu sais... Inquiète pour Tamberlane et Jonas. Rien à dire là-dessus.
@@ -12,7 +12,7 @@ MARIE&nbsp;: Mar-Mar&nbsp;? Tu ne m'as pas appelée comme ça depuis longtemps, 
 CORIANDER&nbsp;: *ELLIS&nbsp;! REVIENS ICI&nbsp;! ELLIS&nbsp;!!*
 PARSLEY&nbsp;: Eh bien, je dois faire quelque chose pour te remonter le moral, n'est-ce pas&nbsp;?
 
-CUR&nbsp;:*JAMAIS DE LA VIE&nbsp;!*
+CABOT&nbsp;:*JAMAIS DE LA VIE&nbsp;!*
 
 CORIANDER&nbsp;: *MANGE LA PURÉE, ELLIS*
 PARSLEY&nbsp;: La maison Carver a officiellement perdu la boule.
